@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 Sou um futuro desenvolvedor, no momento estou cursando ADS e também estudando muito desenvolvimento Web 🤓
 
-### Meus Status
+### 🕹️ Meus Status
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helderjuniores)](https://github.com/helderjuniores/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helderjuniores&langs_count=8)
