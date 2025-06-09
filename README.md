@@ -4,7 +4,7 @@ Sou um futuro desenvolvedor, no momento estou cursando ADS e também estudando m
 
 ### 🕹️ Meus Status
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helderjuniores)](https://github.com/helderjuniores/github-readme-stats)
+[![Helder Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=helderjuniores)](https://github.com/helderjuniores/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helderjuniores&langs_count=8)
 
 ### 🌱 Atualmente estou aprendendo
